@@ -12,5 +12,3 @@ Features used in app:
 - State renderer 
 - Mappers
 - Data sources
-
-- Screenshots![Uploading IMG_20210830_191623.jpg…]()

@@ -1,16 +1,16 @@
-# new_tut_app
+Tut App  Using Cubit As State management with Dark Mode
 
-A new Flutter project.
+Features used in app:
+- Rest full (Api)
+- Clean Architecture Design Pattern
+- MVVM - Model - View - View Model Pattern
+- Dependency injection
+- Application Layer
+- Domain layer
+- Data layer
+- Presentation layer
+- State renderer 
+- Mappers
+- Data sources
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Screenshots![Uploading IMG_20210830_191623.jpg…]()

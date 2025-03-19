@@ -1,6 +1,8 @@
+# TutApp Project
+
 Tut App  Using Cubit As State management with Dark Mode
 
-Features used in app:
+ # Features used in app: 
 - Rest full (Api)
 - Clean Architecture Design Pattern
 - MVVM - Model - View - View Model Pattern

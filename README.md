@@ -19,7 +19,7 @@ Tut App  Using Cubit As State management with Dark Mode
 ### Splash Screen
 <img src="https://github.com/user-attachments/assets/020cc93f-def6-4b7d-b86d-f945522a7cd9" width="300"/>
 
-### loging Screen
+### login Screen
 <div>
  <img src="https://github.com/user-attachments/assets/5a49ca02-cd72-46a5-86ff-f0df8a703beb" width="300"/>
  <img src="https://github.com/user-attachments/assets/f9117b2f-cde4-4e0f-a81d-9f2a76caf686" width="300"/>
@@ -50,7 +50,7 @@ Tut App  Using Cubit As State management with Dark Mode
 </div>
 
 
-### Customer Interfaces
+### Tut App
 
 <table width="100%">
   <tr>
@@ -93,6 +93,6 @@ Tut App  Using Cubit As State management with Dark Mode
 
 ## Thanks
 
-Thank you for exploring **WyldPay**!<br>
+Thank you for exploring **tutApp**!<br>
 If you have any questions or suggestions, feel free to reach out.<br>
-[![Linkedin Badge](https://img.shields.io/badge/-Abdelrazek-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrazek-ali) [![Mail Badge](https://img.shields.io/badge/-dev.abdelrazek-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dev.abdelrazek@gmail.com)   [![Whats Badge](https://img.shields.io/badge/-+201092018531-57ab51?style=flat&labelColor=57ab51&logo=whatsapp&logoColor=white)](https://wa.me/+201092018531)
+[![Linkedin Badge](https://img.shields.io/badge/-Medhat-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medhat-alaa-44a2a2247/)  [![Whats Badge](https://img.shields.io/badge/-+201144162596-57ab51?style=flat&labelColor=57ab51&logo=whatsapp&logoColor=white)](https://wa.me/+201144162596)

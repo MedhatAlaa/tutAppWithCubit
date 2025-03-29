@@ -1,4 +1,4 @@
-# TutApp 
+# Tut App 
 
 Tut App  Using Cubit As State management with Dark Mode
 
